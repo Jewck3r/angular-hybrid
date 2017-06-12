@@ -1,6 +1,6 @@
 /**
  * undefined
- * @version v3.1.1
+ * @version v3.1.2
  * @link undefined
  * @license MIT License, http://www.opensource.org/licenses/MIT
  */
